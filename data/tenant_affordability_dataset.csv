@@ -1,0 +1,501 @@
+tenant_id,monthly_salary,employment_position,years_at_current_job,number_of_dependents,current_monthly_rent,property_monthly_rent,previous_rental_history,has_references,credit_score,debt_to_income_ratio,age,previous_late_payments,rent_to_income_ratio,affordability_status,risk_category,can_sustain_rent
+T0001,66556,Self employed,11,0,0,102097,0,1,508,9,19,0,153.4,Not sustainable,medium,0
+T0002,247815,Full time,1,1,46062,177127,1,1,594,5,28,1,71.48,Not sustainable,medium,0
+T0003,130758,Full time,4,1,0,118236,1,1,627,63,52,0,90.42,Not sustainable,medium,0
+T0004,25328,Student,0,2,58427,174714,1,0,658,34,36,6,689.81,Not sustainable,medium,0
+T0005,6619,Unemployed,0,2,56434,129647,1,1,648,14,56,1,1958.71,Not sustainable,medium,0
+T0006,109175,Part time,1,7,69735,151178,1,1,702,46,21,0,138.47,Not sustainable,medium,0
+T0007,172694,Full time,7,5,0,100186,1,1,655,63,27,0,58.01,Not sustainable,medium,0
+T0008,237159,Full time,9,4,117912,98876,1,0,738,22,50,1,41.69,Manageable with caution,low,0
+T0009,285732,Self employed,1,3,0,70066,1,0,397,72,34,5,24.52,Not sustainable,medium,0
+T0010,752,Unemployed,0,3,109353,60029,0,1,844,25,47,0,7982.58,Not sustainable,medium,0
+T0011,248659,Self employed,4,2,0,161225,0,1,691,30,27,0,64.84,Not sustainable,low,0
+T0012,339954,Full time,13,2,0,169029,1,0,535,51,37,0,49.72,Manageable with caution,medium,0
+T0013,238729,Full time,2,4,115932,52453,1,1,728,75,28,0,21.97,Not sustainable,low,0
+T0014,27730,Unemployed,0,3,0,85521,1,1,729,52,46,3,308.41,Not sustainable,medium,0
+T0015,109986,Part time,1,2,0,46784,0,0,751,34,22,3,42.54,Manageable with caution,medium,0
+T0016,4643,Unemployed,0,3,51195,164782,0,0,687,65,33,2,3549.04,Not sustainable,high,0
+T0017,109914,Self employed,1,1,106374,55409,1,1,760,17,21,0,50.41,Not sustainable,low,0
+T0018,315882,Full time,2,2,0,95183,0,0,676,64,33,3,30.13,Not sustainable,medium,0
+T0019,301818,Full time,14,3,0,174264,1,0,762,35,28,0,57.74,Not sustainable,low,0
+T0020,150130,Part time,0,7,0,73158,0,1,717,63,36,0,48.73,Not sustainable,medium,0
+T0021,87845,Student,0,1,0,157577,1,1,477,12,21,1,179.38,Not sustainable,medium,0
+T0022,86270,Part time,0,0,0,163124,0,1,588,56,25,4,189.09,Not sustainable,high,0
+T0023,55418,Part time,4,5,74948,51491,0,1,636,43,47,0,92.91,Not sustainable,medium,0
+T0024,79016,Self employed,0,0,0,150136,0,1,725,49,22,3,190.01,Not sustainable,medium,0
+T0025,131352,Full time,8,2,112214,172401,1,1,804,43,60,0,131.25,Not sustainable,low,0
+T0026,17332,Unemployed,0,3,0,60258,0,1,638,31,63,0,347.67,Not sustainable,medium,0
+T0027,283585,Self employed,4,5,84032,162489,1,0,562,5,39,2,57.3,Not sustainable,medium,0
+T0028,128670,Self employed,2,2,92309,145824,0,1,665,24,52,0,113.33,Not sustainable,low,0
+T0029,234841,Full time,3,1,0,142666,1,1,760,31,61,0,60.75,Not sustainable,low,0
+T0030,294502,Full time,9,5,0,136529,0,0,473,27,44,0,46.36,Manageable with caution,medium,0
+T0031,147080,Self employed,12,1,0,137928,1,0,760,33,30,2,93.78,Not sustainable,medium,0
+T0032,125003,Part time,6,3,0,89662,1,1,494,13,35,0,71.73,Not sustainable,medium,0
+T0033,131808,Part time,0,0,134955,60236,1,1,708,45,45,1,45.7,Manageable with caution,low,0
+T0034,145976,Part time,4,3,0,79828,0,1,693,73,61,2,54.69,Not sustainable,medium,0
+T0035,235801,Self employed,3,5,0,125478,1,1,604,43,50,0,53.21,Not sustainable,medium,0
+T0036,195486,Full time,12,1,0,107504,1,1,588,27,57,1,54.99,Not sustainable,medium,0
+T0037,308556,Full time,1,2,0,109658,1,1,529,32,50,1,35.54,Manageable with caution,low,0
+T0038,37241,Student,0,0,57196,52228,1,0,652,44,32,2,140.24,Not sustainable,medium,0
+T0039,102114,Full time,4,2,0,154554,1,1,611,56,33,0,151.35,Not sustainable,medium,0
+T0040,294005,Self employed,12,1,122029,57941,1,1,538,64,21,1,19.71,Not sustainable,low,0
+T0041,30906,Student,0,3,37477,149658,1,1,820,69,45,3,484.24,Not sustainable,medium,0
+T0042,86722,Part time,5,3,78991,154433,1,1,568,71,49,1,178.08,Not sustainable,medium,0
+T0043,110311,Full time,12,1,50735,104901,1,0,684,24,63,0,95.1,Not sustainable,low,0
+T0044,176738,Full time,9,1,0,152139,1,1,705,7,54,0,86.08,Not sustainable,low,0
+T0045,182211,Full time,5,2,131863,132232,1,1,718,39,45,1,72.57,Not sustainable,low,0
+T0046,265341,Full time,11,4,0,135989,1,1,564,73,19,3,51.25,Not sustainable,high,0
+T0047,52104,Part time,0,1,37786,142358,0,1,547,53,35,2,273.22,Not sustainable,high,0
+T0048,16532,Unemployed,0,3,0,51471,0,1,654,33,59,0,311.34,Not sustainable,medium,0
+T0049,20276,Student,0,1,0,38134,0,0,729,32,47,1,188.07,Not sustainable,medium,0
+T0050,103984,Self employed,9,6,0,60024,0,0,730,44,54,1,57.72,Not sustainable,medium,0
+T0051,66990,Student,0,0,0,81990,1,1,591,10,40,1,122.39,Not sustainable,medium,0
+T0052,78076,Self employed,8,4,21658,119451,0,1,601,63,63,0,152.99,Not sustainable,medium,0
+T0053,226772,Full time,11,2,100728,100800,1,1,598,16,35,3,44.45,Manageable with caution,low,0
+T0054,211820,Full time,10,2,0,129349,0,1,694,50,34,0,61.07,Not sustainable,medium,0
+T0055,45952,Unemployed,0,2,0,102422,0,0,529,35,62,1,222.89,Not sustainable,high,0
+T0056,177486,Self employed,12,1,32196,34520,1,1,697,52,48,1,19.45,Manageable with caution,low,0
+T0057,285542,Full time,9,1,66112,116714,0,0,646,73,62,0,40.87,Not sustainable,medium,0
+T0058,216929,Full time,5,7,98222,167530,1,1,674,51,29,0,77.23,Not sustainable,medium,0
+T0059,93182,Self employed,4,2,0,41931,1,0,704,6,54,0,45.0,Manageable with caution,low,0
+T0060,134314,Part time,1,0,53092,43468,0,1,548,11,27,0,32.36,Sustainable,low,1
+T0061,124648,Part time,0,2,35525,95061,1,0,527,61,37,3,76.26,Not sustainable,high,0
+T0062,55026,Student,0,2,0,179062,1,1,615,31,58,0,325.41,Not sustainable,medium,0
+T0063,101171,Self employed,3,0,0,75564,1,1,605,41,63,0,74.69,Not sustainable,low,0
+T0064,4664,Unemployed,0,3,141098,91190,1,1,634,30,45,0,1955.19,Not sustainable,medium,0
+T0065,129056,Full time,15,0,0,99633,0,1,629,41,46,0,77.2,Not sustainable,low,0
+T0066,243430,Self employed,6,2,85597,101367,1,1,506,46,56,0,41.64,Manageable with caution,medium,0
+T0067,342159,Full time,11,2,120238,35438,1,0,528,40,29,6,10.36,Manageable with caution,medium,0
+T0068,303449,Full time,8,1,81605,53918,0,0,617,25,39,0,17.77,Sustainable,low,1
+T0069,149976,Part time,6,0,24809,174204,0,0,656,5,60,3,116.15,Not sustainable,medium,0
+T0070,59209,Part time,1,2,67419,165905,1,0,441,75,26,4,280.2,Not sustainable,high,0
+T0071,273042,Full time,8,3,0,61831,0,0,573,19,47,4,22.65,Manageable with caution,medium,0
+T0072,100362,Self employed,7,1,86698,106509,1,1,667,63,53,0,106.12,Not sustainable,medium,0
+T0073,247123,Full time,9,1,0,65784,1,1,733,5,36,2,26.62,Sustainable,low,1
+T0074,38005,Unemployed,0,2,0,158356,1,1,584,74,42,1,416.67,Not sustainable,high,0
+T0075,139454,Full time,12,1,94946,92601,1,0,625,53,42,6,66.4,Not sustainable,medium,0
+T0076,230922,Self employed,2,0,0,159847,1,1,481,17,46,0,69.22,Not sustainable,medium,0
+T0077,17011,Student,0,0,0,67789,1,1,561,15,39,3,398.5,Not sustainable,medium,0
+T0078,24904,Unemployed,0,4,102155,113010,0,0,563,41,32,2,453.78,Not sustainable,high,0
+T0079,115806,Full time,13,3,0,56347,1,0,652,52,45,0,48.66,Manageable with caution,low,0
+T0080,92200,Part time,1,2,30350,75893,0,1,554,23,32,1,82.31,Not sustainable,medium,0
+T0081,156932,Full time,11,5,137821,32463,1,0,548,43,58,5,20.69,Manageable with caution,medium,0
+T0082,179756,Self employed,4,0,70422,82223,1,1,661,42,62,0,45.74,Manageable with caution,low,0
+T0083,66879,Student,0,5,0,101953,1,1,764,34,56,2,152.44,Not sustainable,medium,0
+T0084,139841,Full time,10,2,0,95700,1,1,535,44,46,0,68.43,Not sustainable,medium,0
+T0085,124448,Full time,2,0,62823,107361,0,1,745,39,28,0,86.27,Not sustainable,low,0
+T0086,186313,Self employed,12,4,117853,107369,1,0,609,33,61,2,57.63,Not sustainable,medium,0
+T0087,88048,Student,0,0,31836,125885,1,1,563,53,58,4,142.97,Not sustainable,high,0
+T0088,151295,Full time,8,5,101205,36560,0,0,504,64,62,0,24.16,Not sustainable,medium,0
+T0089,126641,Full time,1,0,59893,39754,0,1,560,74,44,1,31.39,Not sustainable,low,0
+T0090,292105,Self employed,6,2,129273,55957,1,1,688,52,31,0,19.16,Manageable with caution,low,0
+T0091,62537,Student,0,2,148572,56045,1,1,580,20,47,0,89.62,Not sustainable,medium,0
+T0092,257639,Full time,10,1,26629,35598,0,1,666,13,53,0,13.82,Sustainable,low,1
+T0093,317985,Full time,4,3,0,116129,1,1,850,74,34,2,36.52,Not sustainable,low,0
+T0094,317134,Full time,1,3,21947,64551,0,1,601,27,34,0,20.35,Sustainable,low,1
+T0095,197910,Self employed,1,3,82422,46661,1,0,400,10,64,2,23.58,Sustainable,low,1
+T0096,34173,Unemployed,0,0,0,109070,1,1,624,18,49,2,319.17,Not sustainable,medium,0
+T0097,325737,Full time,2,0,0,114439,0,1,549,72,36,1,35.13,Not sustainable,medium,0
+T0098,70999,Part time,6,2,0,59992,1,1,604,63,43,0,84.5,Not sustainable,medium,0
+T0099,201873,Full time,6,3,0,96817,1,0,716,52,26,1,47.96,Manageable with caution,low,0
+T0100,131414,Part time,5,4,73845,62042,1,1,681,11,36,1,47.21,Manageable with caution,low,0
+T0101,241497,Full time,9,1,40280,85768,0,1,521,33,45,3,35.52,Manageable with caution,medium,0
+T0102,87972,Student,0,0,99822,36882,0,1,749,48,40,0,41.92,Manageable with caution,medium,0
+T0103,37114,Unemployed,0,3,0,135063,1,0,539,63,39,0,363.91,Not sustainable,high,0
+T0104,175035,Full time,13,4,0,178791,0,1,612,11,61,0,102.15,Not sustainable,medium,0
+T0105,201152,Full time,8,1,74287,145879,1,1,739,67,51,1,72.52,Not sustainable,medium,0
+T0106,193615,Full time,10,1,0,44360,0,0,721,37,36,0,22.91,Sustainable,low,1
+T0107,285825,Full time,7,2,36932,76057,0,1,586,55,65,0,26.61,Manageable with caution,low,0
+T0108,331477,Full time,2,2,95465,112066,1,1,552,19,43,0,33.81,Sustainable,low,1
+T0109,300061,Full time,10,0,129055,150611,1,0,531,55,37,2,50.19,Not sustainable,high,0
+T0110,294241,Full time,3,2,0,50022,0,1,568,49,64,4,17.0,Manageable with caution,medium,0
+T0111,98716,Self employed,3,1,39194,56949,1,1,596,68,47,2,57.69,Not sustainable,medium,0
+T0112,177677,Self employed,10,4,104278,177978,1,0,580,13,48,0,100.17,Not sustainable,medium,0
+T0113,162004,Full time,10,1,0,44725,1,0,648,16,57,1,27.61,Sustainable,low,1
+T0114,242129,Full time,9,1,0,40753,1,0,596,12,46,0,16.83,Sustainable,low,1
+T0115,22507,Unemployed,0,0,0,52106,1,1,501,51,41,4,231.51,Not sustainable,high,0
+T0116,293021,Full time,6,0,123445,43727,0,1,610,41,34,2,14.92,Sustainable,low,1
+T0117,297592,Self employed,9,2,0,69419,0,1,774,55,26,1,23.33,Manageable with caution,low,0
+T0118,55577,Student,0,4,69372,176518,1,1,600,72,23,1,317.61,Not sustainable,high,0
+T0119,184851,Full time,1,6,0,125052,0,1,786,24,22,0,67.65,Not sustainable,medium,0
+T0120,193087,Self employed,12,3,0,171497,1,1,850,53,27,0,88.82,Not sustainable,low,0
+T0121,40942,Unemployed,0,0,114526,73395,1,1,758,62,32,1,179.27,Not sustainable,medium,0
+T0122,301975,Full time,13,1,0,152949,1,1,605,64,36,2,50.65,Not sustainable,medium,0
+T0123,154749,Part time,1,4,0,82349,0,1,477,71,25,0,53.21,Not sustainable,high,0
+T0124,131510,Self employed,7,0,39313,164572,1,1,790,49,19,0,125.14,Not sustainable,low,0
+T0125,188031,Full time,4,1,30696,131231,0,0,611,23,26,0,69.79,Not sustainable,medium,0
+T0126,76925,Student,0,2,119462,66383,0,0,546,37,31,3,86.3,Not sustainable,high,0
+T0127,155953,Part time,0,0,51147,105524,0,1,605,68,56,1,67.66,Not sustainable,medium,0
+T0128,210745,Self employed,3,0,58177,67637,1,1,606,28,60,1,32.09,Sustainable,low,1
+T0129,139530,Part time,0,1,0,167903,1,1,702,7,40,2,120.33,Not sustainable,low,0
+T0130,282136,Full time,11,0,121122,57174,1,1,621,27,61,1,20.26,Sustainable,low,1
+T0131,225605,Self employed,2,0,28270,65350,0,1,692,44,50,0,28.97,Sustainable,low,1
+T0132,184098,Self employed,4,1,0,39599,1,0,575,47,35,0,21.51,Manageable with caution,low,0
+T0133,323173,Full time,7,1,137261,145274,0,1,515,39,23,2,44.95,Manageable with caution,medium,0
+T0134,247929,Full time,14,1,91496,77305,0,1,755,44,46,1,31.18,Sustainable,low,1
+T0135,270817,Full time,8,3,0,122155,1,1,505,12,22,1,45.11,Manageable with caution,low,0
+T0136,224502,Full time,13,0,0,71939,1,1,683,9,26,0,32.04,Sustainable,low,1
+T0137,156030,Self employed,5,2,0,130362,1,1,518,22,51,0,83.55,Not sustainable,medium,0
+T0138,163056,Full time,4,2,0,59739,1,1,746,38,34,2,36.64,Manageable with caution,low,0
+T0139,250399,Full time,5,0,0,158765,0,0,555,45,60,0,63.4,Not sustainable,medium,0
+T0140,232126,Full time,5,3,0,108631,1,1,312,51,50,0,46.8,Manageable with caution,medium,0
+T0141,33202,Student,0,0,123595,92058,1,1,669,16,22,0,277.27,Not sustainable,low,0
+T0142,77739,Student,0,4,73843,167807,0,1,516,14,46,1,215.86,Not sustainable,high,0
+T0143,78642,Part time,6,3,0,174520,0,1,751,71,27,0,221.92,Not sustainable,medium,0
+T0144,335035,Full time,12,4,65353,89105,0,1,497,75,35,0,26.6,Not sustainable,medium,0
+T0145,229848,Full time,2,2,0,161746,1,0,484,48,54,0,70.37,Not sustainable,medium,0
+T0146,5323,Unemployed,0,3,144327,41917,1,1,485,8,49,3,787.47,Not sustainable,high,0
+T0147,124192,Part time,3,1,125472,94193,0,0,528,31,39,1,75.84,Not sustainable,medium,0
+T0148,278314,Full time,6,0,147844,120536,1,1,670,45,33,1,43.31,Manageable with caution,low,0
+T0149,154990,Full time,3,5,26632,55378,1,1,829,46,54,2,35.73,Manageable with caution,low,0
+T0150,131770,Full time,8,4,81186,164932,1,0,582,55,50,1,125.17,Not sustainable,medium,0
+T0151,242920,Full time,6,2,26624,42755,1,1,514,18,45,0,17.6,Sustainable,low,1
+T0152,185886,Full time,13,1,0,135710,1,0,651,75,36,0,73.01,Not sustainable,medium,0
+T0153,118327,Part time,6,1,0,61145,1,1,777,30,56,1,51.67,Not sustainable,low,0
+T0154,56876,Part time,0,4,113531,65923,1,0,570,70,26,0,115.91,Not sustainable,medium,0
+T0155,87598,Part time,3,2,97820,108442,1,1,530,7,41,0,123.8,Not sustainable,medium,0
+T0156,199193,Full time,10,2,0,110655,0,1,588,34,64,0,55.55,Not sustainable,medium,0
+T0157,144664,Part time,1,1,0,93490,1,1,575,69,57,4,64.63,Not sustainable,high,0
+T0158,48223,Unemployed,0,2,0,46326,1,1,663,66,51,0,96.07,Not sustainable,medium,0
+T0159,75249,Student,0,3,64869,169756,1,1,654,66,30,4,225.59,Not sustainable,high,0
+T0160,168249,Full time,4,3,121079,108017,1,1,559,66,40,1,64.2,Not sustainable,medium,0
+T0161,50842,Student,0,4,35974,105442,1,1,637,10,36,4,207.39,Not sustainable,medium,0
+T0162,332223,Full time,8,1,117955,97225,1,1,577,39,26,0,29.26,Sustainable,low,1
+T0163,122726,Self employed,3,2,0,43307,0,1,621,22,18,5,35.29,Manageable with caution,medium,0
+T0164,35701,Student,0,2,105575,136668,0,1,587,46,36,1,382.81,Not sustainable,high,0
+T0165,26725,Student,0,5,0,90875,0,1,725,55,49,0,340.04,Not sustainable,medium,0
+T0166,288665,Self employed,4,2,21214,39821,0,1,820,41,47,6,13.79,Manageable with caution,low,0
+T0167,174476,Part time,1,1,81344,162176,0,0,559,28,18,2,92.95,Not sustainable,medium,0
+T0168,208840,Self employed,10,4,43002,80636,1,0,648,17,29,6,38.61,Manageable with caution,medium,0
+T0169,110024,Part time,0,2,0,98363,0,1,522,38,59,0,89.4,Not sustainable,medium,0
+T0170,265056,Full time,2,1,0,152000,1,1,568,44,62,0,57.35,Not sustainable,low,0
+T0171,53671,Student,0,1,0,126349,0,0,628,58,62,1,235.41,Not sustainable,medium,0
+T0172,102255,Part time,6,2,0,94871,1,1,500,19,21,2,92.78,Not sustainable,medium,0
+T0173,41497,Student,0,1,0,170682,1,0,664,16,50,0,411.31,Not sustainable,medium,0
+T0174,124588,Full time,9,2,0,138901,1,1,750,7,43,0,111.49,Not sustainable,low,0
+T0175,147121,Full time,10,1,25936,49144,0,1,662,65,20,0,33.4,Not sustainable,low,0
+T0176,125501,Full time,13,2,69081,140195,1,1,615,15,61,5,111.71,Not sustainable,medium,0
+T0177,8715,Unemployed,0,7,0,121165,1,0,808,7,37,1,1390.3,Not sustainable,high,0
+T0178,171182,Self employed,8,1,0,129425,0,1,605,19,20,2,75.61,Not sustainable,medium,0
+T0179,290816,Full time,15,0,0,34101,1,1,539,36,65,0,11.73,Sustainable,low,1
+T0180,231494,Full time,4,1,38367,44796,1,1,459,46,33,0,19.35,Manageable with caution,low,0
+T0181,263070,Full time,9,1,74206,87945,1,1,624,59,53,1,33.43,Manageable with caution,low,0
+T0182,64958,Student,0,1,61777,167484,0,0,571,73,48,0,257.83,Not sustainable,high,0
+T0183,314799,Full time,12,5,125614,67840,1,1,582,36,34,0,21.55,Manageable with caution,low,0
+T0184,177908,Self employed,5,0,0,54238,1,1,612,10,22,0,30.49,Sustainable,low,1
+T0185,249872,Self employed,10,1,48444,176499,1,1,685,29,65,0,70.64,Not sustainable,low,0
+T0186,77773,Student,0,1,0,93594,0,1,594,41,42,1,120.34,Not sustainable,medium,0
+T0187,140851,Self employed,4,2,87215,124278,1,1,636,31,41,0,88.23,Not sustainable,low,0
+T0188,316514,Full time,4,2,22125,68252,1,1,546,42,27,0,21.56,Sustainable,low,1
+T0189,239366,Full time,14,1,85444,94416,1,1,560,26,64,2,39.44,Manageable with caution,low,0
+T0190,278825,Full time,9,2,0,158009,1,0,544,11,18,0,56.67,Not sustainable,medium,0
+T0191,15167,Unemployed,0,0,0,47817,1,1,526,66,60,1,315.27,Not sustainable,high,0
+T0192,234610,Full time,7,2,22192,33106,0,1,534,60,29,0,14.11,Manageable with caution,low,0
+T0193,129032,Full time,4,4,101235,80313,0,1,562,36,62,0,62.24,Not sustainable,medium,0
+T0194,282263,Self employed,1,1,32255,38305,1,0,699,6,62,0,13.57,Sustainable,low,1
+T0195,158746,Part time,5,4,0,116840,1,0,748,65,35,0,73.6,Not sustainable,medium,0
+T0196,332636,Full time,5,0,0,172352,1,0,545,31,55,0,51.81,Not sustainable,medium,0
+T0197,275194,Self employed,6,2,0,50168,1,1,577,54,65,0,18.23,Manageable with caution,low,0
+T0198,25279,Student,0,0,117708,161279,1,1,523,48,56,2,638.0,Not sustainable,high,0
+T0199,66996,Student,0,3,23883,115557,1,0,542,28,61,1,172.48,Not sustainable,medium,0
+T0200,292419,Full time,10,3,0,107431,0,0,599,24,65,0,36.74,Manageable with caution,medium,0
+T0201,113991,Full time,1,3,78292,110810,0,0,519,70,44,0,97.21,Not sustainable,high,0
+T0202,235285,Full time,2,0,133209,115047,1,1,680,36,54,1,48.9,Manageable with caution,low,0
+T0203,104433,Self employed,2,2,59469,100495,0,1,533,14,41,0,96.23,Not sustainable,medium,0
+T0204,253848,Full time,8,0,0,81261,0,1,682,53,39,0,32.01,Manageable with caution,low,0
+T0205,305884,Full time,14,2,59378,65684,1,1,672,45,36,2,21.47,Sustainable,low,1
+T0206,210963,Self employed,12,1,62714,93550,1,1,716,30,55,6,44.34,Manageable with caution,low,0
+T0207,291226,Full time,9,5,144912,37055,0,1,647,57,61,1,12.72,Manageable with caution,low,0
+T0208,123444,Self employed,4,3,113747,70407,0,1,598,66,55,0,57.04,Not sustainable,medium,0
+T0209,154655,Part time,4,3,123641,39637,1,1,669,36,60,1,25.63,Sustainable,low,1
+T0210,250609,Full time,1,6,148923,177644,0,1,606,18,18,0,70.88,Not sustainable,medium,0
+T0211,285783,Full time,9,2,0,176274,1,1,534,49,19,1,61.68,Not sustainable,medium,0
+T0212,331316,Full time,2,1,0,60426,0,1,570,71,48,0,18.24,Not sustainable,low,0
+T0213,279266,Full time,12,1,0,148606,1,0,710,26,65,0,53.21,Not sustainable,low,0
+T0214,131978,Full time,6,1,75885,176761,1,0,518,60,43,0,133.93,Not sustainable,medium,0
+T0215,96727,Part time,3,3,0,142604,0,1,642,18,52,0,147.43,Not sustainable,low,0
+T0216,209944,Full time,2,2,107910,98774,1,1,598,55,55,0,47.05,Manageable with caution,low,0
+T0217,210025,Full time,10,5,126658,75227,1,1,602,19,29,0,35.82,Manageable with caution,low,0
+T0218,191833,Full time,7,2,95340,66141,1,1,694,27,53,0,34.48,Sustainable,low,1
+T0219,139046,Full time,6,4,0,148227,1,1,661,69,59,1,106.6,Not sustainable,medium,0
+T0220,168955,Self employed,11,0,0,146353,0,1,718,42,20,0,86.62,Not sustainable,low,0
+T0221,89094,Part time,6,2,94140,149884,0,0,657,51,52,2,168.23,Not sustainable,medium,0
+T0222,278476,Full time,8,0,48644,173223,1,1,455,43,20,0,62.2,Not sustainable,medium,0
+T0223,304100,Full time,2,3,0,145099,0,1,554,59,28,1,47.71,Manageable with caution,medium,0
+T0224,273261,Self employed,3,2,94720,45560,1,0,583,42,36,1,16.67,Sustainable,low,1
+T0225,82425,Student,0,5,37771,54962,1,1,763,36,27,2,66.68,Not sustainable,medium,0
+T0226,259615,Self employed,10,2,0,132944,0,1,766,62,22,1,51.21,Not sustainable,medium,0
+T0227,6101,Unemployed,0,3,87582,135604,1,1,504,16,64,5,2222.65,Not sustainable,high,0
+T0228,242790,Self employed,5,1,124291,46601,1,0,639,39,38,2,19.19,Sustainable,low,1
+T0229,241501,Full time,3,3,131728,178410,1,1,757,63,19,0,73.88,Not sustainable,medium,0
+T0230,28920,Unemployed,0,1,20088,149673,1,0,667,43,28,3,517.54,Not sustainable,medium,0
+T0231,6117,Unemployed,0,1,0,124485,1,0,565,34,45,1,2035.07,Not sustainable,medium,0
+T0232,60284,Self employed,3,2,0,154992,1,1,679,6,62,0,257.1,Not sustainable,low,0
+T0233,315533,Full time,7,1,0,64648,0,1,702,43,26,0,20.49,Sustainable,low,1
+T0234,289244,Self employed,2,2,0,67448,0,1,684,32,58,2,23.32,Sustainable,low,1
+T0235,72984,Student,0,0,0,86949,0,1,570,22,33,0,119.13,Not sustainable,medium,0
+T0236,235069,Full time,10,4,0,104690,1,1,710,71,56,1,44.54,Not sustainable,low,0
+T0237,137474,Self employed,10,2,0,44304,0,1,533,6,41,4,32.23,Manageable with caution,medium,0
+T0238,315657,Full time,14,2,75163,178997,0,1,565,14,19,1,56.71,Not sustainable,medium,0
+T0239,146555,Full time,1,2,144345,45851,1,1,502,15,58,1,31.29,Sustainable,low,1
+T0240,117736,Part time,0,6,0,111240,0,1,704,13,37,1,94.48,Not sustainable,medium,0
+T0241,281896,Self employed,3,5,0,45179,0,1,762,27,25,0,16.03,Manageable with caution,low,0
+T0242,92975,Full time,3,2,144913,160131,1,1,677,26,41,0,172.23,Not sustainable,low,0
+T0243,130454,Self employed,11,1,0,60947,1,1,609,14,49,1,46.72,Manageable with caution,low,0
+T0244,220969,Full time,14,0,41873,178605,1,1,850,19,32,2,80.83,Not sustainable,low,0
+T0245,315100,Full time,14,2,0,33221,1,0,800,75,63,2,10.54,Not sustainable,low,0
+T0246,174358,Full time,4,1,140042,139119,0,1,551,69,61,3,79.79,Not sustainable,high,0
+T0247,300852,Full time,9,0,145053,42039,1,1,677,75,47,0,13.97,Not sustainable,low,0
+T0248,237798,Full time,13,2,0,109668,1,1,559,30,64,3,46.12,Manageable with caution,low,0
+T0249,124258,Self employed,2,0,142211,31671,1,1,625,47,18,2,25.49,Manageable with caution,low,0
+T0250,283483,Full time,12,2,0,110612,0,1,617,12,27,2,39.02,Manageable with caution,medium,0
+T0251,331506,Full time,4,2,74140,166251,1,1,494,55,22,1,50.15,Not sustainable,medium,0
+T0252,263655,Full time,3,4,58230,92068,1,1,625,46,38,1,34.92,Manageable with caution,low,0
+T0253,337347,Full time,4,0,0,65680,0,1,532,31,46,0,19.47,Sustainable,low,1
+T0254,121434,Full time,2,4,125853,71317,1,0,695,46,27,0,58.73,Not sustainable,medium,0
+T0255,183255,Full time,7,1,26416,164600,1,0,544,75,33,0,89.82,Not sustainable,high,0
+T0256,298092,Full time,3,4,0,61838,1,0,688,56,41,1,20.74,Manageable with caution,low,0
+T0257,26015,Student,0,0,0,97848,0,1,583,47,25,0,376.12,Not sustainable,medium,0
+T0258,89037,Part time,4,2,127699,143549,1,1,647,50,31,3,161.22,Not sustainable,medium,0
+T0259,206919,Full time,15,3,0,68962,1,1,589,54,26,0,33.33,Manageable with caution,low,0
+T0260,268980,Self employed,8,7,0,95312,1,1,635,74,49,0,35.43,Not sustainable,medium,0
+T0261,129306,Part time,3,1,0,100893,0,1,635,65,51,0,78.03,Not sustainable,medium,0
+T0262,106017,Part time,1,1,0,56249,1,1,597,12,32,1,53.06,Not sustainable,medium,0
+T0263,65911,Student,0,0,0,123009,1,1,561,8,63,2,186.63,Not sustainable,medium,0
+T0264,88873,Student,0,4,0,67251,1,1,430,74,37,0,75.67,Not sustainable,high,0
+T0265,104724,Full time,4,0,22612,87359,1,0,732,46,21,0,83.42,Not sustainable,medium,0
+T0266,82133,Part time,6,6,130949,59077,1,1,740,55,55,0,71.93,Not sustainable,medium,0
+T0267,125769,Full time,3,3,123788,144522,0,1,554,50,32,1,114.91,Not sustainable,medium,0
+T0268,159191,Self employed,4,3,0,107205,1,1,425,55,54,0,67.34,Not sustainable,medium,0
+T0269,102906,Part time,5,0,33645,178255,1,0,687,16,63,1,173.22,Not sustainable,low,0
+T0270,148014,Self employed,7,1,0,32987,0,1,623,18,64,0,22.29,Sustainable,low,1
+T0271,282042,Full time,7,2,135939,73604,1,1,717,33,28,1,26.1,Sustainable,low,1
+T0272,68758,Self employed,4,6,61774,35263,0,0,694,53,28,2,51.29,Not sustainable,high,0
+T0273,69406,Part time,2,2,0,156546,1,1,601,47,31,5,225.55,Not sustainable,medium,0
+T0274,235257,Full time,12,1,54768,171590,0,1,642,75,49,0,72.94,Not sustainable,medium,0
+T0275,202094,Full time,2,1,127989,107214,0,0,619,19,37,2,53.05,Not sustainable,medium,0
+T0276,114469,Part time,0,1,0,172639,1,0,667,10,34,0,150.82,Not sustainable,low,0
+T0277,309435,Full time,5,3,0,177913,1,0,564,34,53,0,57.5,Not sustainable,medium,0
+T0278,226991,Full time,7,2,110055,170381,0,1,728,55,63,0,75.06,Not sustainable,medium,0
+T0279,83652,Part time,0,6,0,147713,1,0,378,60,30,6,176.58,Not sustainable,high,0
+T0280,112603,Part time,2,2,31406,47566,1,1,761,71,47,4,42.24,Not sustainable,medium,0
+T0281,273608,Full time,10,0,122457,166986,0,1,416,17,24,1,61.03,Not sustainable,medium,0
+T0282,164997,Full time,14,4,135361,170413,0,1,507,65,20,0,103.28,Not sustainable,high,0
+T0283,252069,Full time,10,4,25083,135308,0,0,624,52,19,0,53.68,Not sustainable,medium,0
+T0284,141513,Self employed,4,6,0,158875,0,1,416,61,38,0,112.27,Not sustainable,high,0
+T0285,259228,Full time,2,5,0,79266,1,1,538,12,50,2,30.58,Manageable with caution,low,0
+T0286,276009,Full time,9,0,0,135744,1,0,620,12,33,0,49.18,Manageable with caution,low,0
+T0287,184470,Full time,12,4,55910,82195,1,1,646,52,49,1,44.56,Manageable with caution,low,0
+T0288,318191,Full time,8,0,65843,174528,1,1,646,16,36,0,54.85,Not sustainable,low,0
+T0289,313824,Full time,10,3,0,86182,1,1,613,6,48,4,27.46,Manageable with caution,low,0
+T0290,217585,Self employed,12,2,49329,32218,1,1,640,40,45,3,14.81,Manageable with caution,low,0
+T0291,30080,Unemployed,0,1,48601,96059,1,1,620,52,53,1,319.35,Not sustainable,medium,0
+T0292,123243,Part time,5,1,0,58338,0,1,624,40,34,1,47.34,Manageable with caution,low,0
+T0293,54163,Student,0,4,0,79377,1,1,517,22,64,0,146.55,Not sustainable,medium,0
+T0294,122490,Part time,2,3,73031,139724,1,1,547,29,39,2,114.07,Not sustainable,medium,0
+T0295,230151,Full time,11,2,138820,154711,1,1,672,17,48,0,67.22,Not sustainable,low,0
+T0296,301902,Full time,9,3,144115,77990,0,0,587,44,44,2,25.83,Sustainable,low,1
+T0297,158304,Full time,10,2,0,107083,1,1,664,29,50,0,67.64,Not sustainable,low,0
+T0298,198893,Self employed,4,0,0,138293,0,1,617,63,27,0,69.53,Not sustainable,medium,0
+T0299,264194,Self employed,1,1,0,157816,0,1,671,25,49,2,59.73,Not sustainable,medium,0
+T0300,93922,Self employed,9,1,103032,143694,1,1,788,9,52,0,152.99,Not sustainable,low,0
+T0301,93690,Full time,15,0,0,114466,0,1,658,44,26,0,122.18,Not sustainable,low,0
+T0302,125246,Part time,1,1,0,47114,0,1,822,72,39,0,37.62,Not sustainable,medium,0
+T0303,95072,Self employed,5,0,0,158497,1,1,697,21,31,2,166.71,Not sustainable,low,0
+T0304,89298,Part time,0,1,0,126099,1,1,638,11,56,6,141.21,Not sustainable,medium,0
+T0305,231328,Self employed,0,1,0,42644,1,1,575,6,37,0,18.43,Sustainable,low,1
+T0306,226395,Full time,5,2,0,65956,1,1,638,18,49,0,29.13,Sustainable,low,1
+T0307,158942,Full time,14,1,0,167139,1,0,430,66,39,0,105.16,Not sustainable,high,0
+T0308,113331,Full time,15,0,129475,58948,0,1,567,17,34,1,52.01,Not sustainable,medium,0
+T0309,122600,Part time,2,4,0,151707,1,1,538,59,65,0,123.74,Not sustainable,medium,0
+T0310,3007,Unemployed,0,3,0,32535,0,1,739,61,57,0,1081.98,Not sustainable,high,0
+T0311,157680,Self employed,5,1,34920,77938,1,1,590,58,59,3,49.43,Manageable with caution,medium,0
+T0312,124737,Full time,12,0,0,45373,1,1,529,61,29,1,36.37,Not sustainable,medium,0
+T0313,220263,Self employed,0,0,83318,64250,1,0,623,72,65,1,29.17,Not sustainable,low,0
+T0314,133683,Part time,4,2,0,167128,1,1,712,54,27,3,125.02,Not sustainable,medium,0
+T0315,59304,Part time,0,4,86265,71137,1,0,559,40,21,1,119.95,Not sustainable,medium,0
+T0316,144257,Part time,3,2,30332,91603,1,0,633,68,46,0,63.5,Not sustainable,medium,0
+T0317,17329,Student,0,0,72879,56907,1,1,693,43,50,1,328.39,Not sustainable,medium,0
+T0318,179592,Self employed,5,4,0,125248,1,1,394,65,63,1,69.74,Not sustainable,high,0
+T0319,89890,Self employed,1,1,20287,88129,1,1,542,18,20,3,98.04,Not sustainable,medium,0
+T0320,152272,Part time,0,1,0,96660,1,1,602,63,30,2,63.48,Not sustainable,medium,0
+T0321,198650,Full time,1,2,121206,62301,1,1,638,11,53,4,31.36,Manageable with caution,low,0
+T0322,31649,Unemployed,0,3,0,163256,0,1,628,18,42,1,515.83,Not sustainable,medium,0
+T0323,129369,Part time,4,1,0,130837,1,1,581,57,56,2,101.13,Not sustainable,medium,0
+T0324,138358,Self employed,11,3,132814,173604,1,1,644,30,31,1,125.47,Not sustainable,low,0
+T0325,180516,Full time,15,2,0,64779,1,1,696,66,55,1,35.89,Not sustainable,low,0
+T0326,169439,Self employed,10,4,57477,169959,1,0,688,23,21,1,100.31,Not sustainable,medium,0
+T0327,286656,Full time,13,3,148913,72188,0,0,643,74,20,0,25.18,Not sustainable,low,0
+T0328,103800,Part time,5,2,0,177133,1,1,567,11,42,0,170.65,Not sustainable,low,0
+T0329,55980,Student,0,3,0,174736,0,1,695,33,58,2,312.14,Not sustainable,medium,0
+T0330,257946,Self employed,9,3,0,173291,1,1,550,27,61,0,67.18,Not sustainable,low,0
+T0331,82350,Student,0,2,0,61287,1,0,567,47,47,2,74.42,Not sustainable,high,0
+T0332,130292,Full time,15,3,0,114575,1,1,593,43,49,2,87.94,Not sustainable,medium,0
+T0333,64105,Part time,6,6,0,113324,1,1,694,56,23,0,176.78,Not sustainable,medium,0
+T0334,43472,Unemployed,0,1,63393,117001,1,1,730,65,53,2,269.14,Not sustainable,high,0
+T0335,16153,Student,0,2,107679,60073,1,1,456,46,42,4,371.9,Not sustainable,high,0
+T0336,65577,Student,0,0,90809,97263,1,1,464,70,50,0,148.32,Not sustainable,high,0
+T0337,325479,Full time,11,5,0,80465,0,1,618,13,31,1,24.72,Manageable with caution,low,0
+T0338,286741,Self employed,10,1,0,141203,1,1,627,60,59,2,49.24,Manageable with caution,low,0
+T0339,269842,Full time,3,0,80191,36226,0,0,629,34,34,0,13.42,Sustainable,low,1
+T0340,151023,Part time,3,3,22213,112943,1,1,666,13,65,1,74.79,Not sustainable,low,0
+T0341,79028,Self employed,5,3,33911,161815,0,0,639,55,60,0,204.76,Not sustainable,medium,0
+T0342,147636,Full time,3,6,124434,132496,0,1,528,52,18,1,89.75,Not sustainable,high,0
+T0343,77305,Part time,0,2,95067,31318,1,1,627,49,31,0,40.51,Manageable with caution,low,0
+T0344,194362,Self employed,2,2,0,72193,0,0,424,11,53,1,37.14,Manageable with caution,medium,0
+T0345,121192,Part time,5,1,0,47658,1,1,541,35,24,0,39.32,Manageable with caution,low,0
+T0346,140724,Full time,6,2,79067,157365,0,1,740,51,38,4,111.83,Not sustainable,medium,0
+T0347,172107,Full time,4,1,113349,88071,1,1,576,62,40,2,51.17,Not sustainable,medium,0
+T0348,73529,Part time,1,4,130335,51488,0,1,724,38,64,3,70.02,Not sustainable,medium,0
+T0349,109765,Full time,15,4,0,34883,1,1,636,38,52,3,31.78,Manageable with caution,low,0
+T0350,83963,Part time,2,0,49269,132891,1,0,655,51,50,0,158.27,Not sustainable,medium,0
+T0351,342706,Full time,13,2,0,73474,0,1,495,66,40,0,21.44,Not sustainable,medium,0
+T0352,120751,Self employed,1,0,0,99299,0,1,420,51,42,1,82.23,Not sustainable,high,0
+T0353,57173,Part time,0,4,33529,114953,0,1,693,51,55,1,201.06,Not sustainable,medium,0
+T0354,33860,Unemployed,0,2,0,95951,1,1,752,67,48,3,283.38,Not sustainable,high,0
+T0355,321219,Full time,3,0,0,145316,1,0,664,20,60,0,45.24,Manageable with caution,low,0
+T0356,248810,Self employed,1,2,108503,156226,1,1,713,57,19,0,62.79,Not sustainable,low,0
+T0357,245280,Full time,3,4,0,65317,0,0,731,56,56,5,26.63,Manageable with caution,medium,0
+T0358,290295,Self employed,11,1,0,104305,1,1,576,66,28,0,35.93,Not sustainable,medium,0
+T0359,127411,Full time,13,0,101685,77679,1,1,600,53,42,0,60.97,Not sustainable,medium,0
+T0360,227025,Full time,14,4,109701,162214,1,0,609,9,52,1,71.45,Not sustainable,medium,0
+T0361,216416,Full time,11,4,0,64164,1,1,539,10,62,1,29.65,Sustainable,low,1
+T0362,300318,Full time,8,2,0,129938,0,1,617,15,36,1,43.27,Manageable with caution,low,0
+T0363,112582,Part time,1,2,0,31433,0,0,548,45,44,0,27.92,Sustainable,low,1
+T0364,260806,Full time,10,2,54249,96488,1,1,510,55,31,0,37.0,Manageable with caution,medium,0
+T0365,186476,Self employed,2,1,93281,127049,0,1,587,20,65,0,68.13,Not sustainable,medium,0
+T0366,102413,Self employed,1,3,86629,86218,1,1,481,11,28,0,84.19,Not sustainable,medium,0
+T0367,270860,Self employed,1,0,81822,68096,0,1,511,56,57,1,25.14,Manageable with caution,medium,0
+T0368,342583,Full time,10,3,0,45063,1,0,533,71,36,0,13.15,Not sustainable,medium,0
+T0369,193837,Self employed,8,3,0,90731,1,1,670,40,43,0,46.81,Manageable with caution,low,0
+T0370,243637,Full time,4,5,0,165723,1,1,623,49,40,5,68.02,Not sustainable,medium,0
+T0371,248954,Full time,4,2,141859,149212,0,1,658,42,39,4,59.94,Not sustainable,medium,0
+T0372,127552,Self employed,8,6,110989,95573,1,1,652,48,47,1,74.93,Not sustainable,medium,0
+T0373,1792,Unemployed,0,0,35239,156345,1,1,599,45,44,4,8724.61,Not sustainable,high,0
+T0374,47548,Part time,5,0,52539,99035,1,1,568,14,53,4,208.28,Not sustainable,medium,0
+T0375,137677,Part time,1,2,0,100536,0,1,675,30,33,3,73.02,Not sustainable,medium,0
+T0376,294194,Full time,2,3,0,61425,1,1,583,74,20,3,20.88,Not sustainable,low,0
+T0377,172684,Full time,8,7,0,102019,1,1,651,11,51,2,59.08,Not sustainable,medium,0
+T0378,53536,Part time,4,2,0,121039,0,1,752,45,62,0,226.09,Not sustainable,low,0
+T0379,159464,Self employed,9,2,62655,56410,0,1,638,48,41,0,35.37,Manageable with caution,low,0
+T0380,199862,Full time,12,1,67851,127598,0,0,736,34,24,2,63.84,Not sustainable,medium,0
+T0381,205579,Self employed,6,4,0,129846,1,1,729,22,58,1,63.16,Not sustainable,low,0
+T0382,265870,Self employed,7,1,0,108652,1,0,636,37,48,3,40.87,Manageable with caution,low,0
+T0383,285190,Full time,6,2,67312,98096,1,1,677,30,54,1,34.4,Sustainable,low,1
+T0384,105754,Self employed,12,3,66544,104608,1,1,636,15,42,1,98.92,Not sustainable,low,0
+T0385,82971,Part time,6,2,103962,73928,1,1,662,48,32,0,89.1,Not sustainable,low,0
+T0386,246235,Self employed,4,3,55553,133666,1,1,608,71,46,0,54.28,Not sustainable,medium,0
+T0387,96055,Full time,3,5,106772,91506,1,0,652,13,48,1,95.26,Not sustainable,medium,0
+T0388,194074,Full time,9,2,33622,51823,0,1,668,54,37,0,26.7,Manageable with caution,low,0
+T0389,176171,Self employed,10,0,0,63138,1,1,580,74,35,1,35.84,Not sustainable,medium,0
+T0390,338639,Full time,12,2,43204,171371,1,1,726,72,58,1,50.61,Not sustainable,medium,0
+T0391,181008,Full time,8,2,0,171470,1,1,629,22,40,0,94.73,Not sustainable,low,0
+T0392,173956,Part time,6,3,0,155060,1,1,631,5,53,0,89.14,Not sustainable,low,0
+T0393,236945,Full time,7,3,0,133481,1,1,637,35,51,2,56.33,Not sustainable,low,0
+T0394,50633,Student,0,1,104994,104626,1,0,667,42,25,1,206.64,Not sustainable,medium,0
+T0395,116338,Part time,5,0,44613,158973,0,1,647,39,26,2,136.65,Not sustainable,medium,0
+T0396,121029,Self employed,1,1,21930,69500,1,1,670,68,41,1,57.42,Not sustainable,medium,0
+T0397,146572,Self employed,1,3,27345,68296,0,1,694,53,18,0,46.6,Manageable with caution,low,0
+T0398,125263,Self employed,6,1,0,146119,1,0,800,31,48,0,116.65,Not sustainable,low,0
+T0399,57344,Student,0,3,0,71579,1,0,550,51,21,3,124.82,Not sustainable,high,0
+T0400,119603,Full time,4,0,0,143812,0,0,639,36,18,5,120.24,Not sustainable,medium,0
+T0401,169589,Part time,5,1,0,70630,1,1,497,12,21,0,41.65,Manageable with caution,low,0
+T0402,230601,Full time,13,1,36492,58152,1,1,843,49,46,2,25.22,Manageable with caution,low,0
+T0403,189029,Full time,6,2,0,65319,1,1,609,28,52,0,34.56,Sustainable,low,1
+T0404,132174,Self employed,9,2,0,175364,1,1,571,74,41,1,132.68,Not sustainable,medium,0
+T0405,192633,Self employed,6,2,0,78636,1,1,615,73,42,0,40.82,Not sustainable,medium,0
+T0406,260732,Self employed,8,1,100352,70404,1,0,661,71,60,0,27.0,Not sustainable,low,0
+T0407,8504,Unemployed,0,1,0,76829,1,0,466,67,51,1,903.45,Not sustainable,high,0
+T0408,57867,Part time,2,0,0,87861,1,1,552,15,47,2,151.83,Not sustainable,medium,0
+T0409,236281,Full time,12,3,127744,139039,0,1,477,43,22,4,58.84,Not sustainable,high,0
+T0410,27729,Student,0,2,0,56535,0,1,601,36,54,1,203.88,Not sustainable,medium,0
+T0411,286396,Full time,9,3,0,138838,1,1,600,18,28,2,48.48,Manageable with caution,low,0
+T0412,177302,Part time,2,5,89979,71465,1,1,534,46,41,0,40.31,Manageable with caution,medium,0
+T0413,276571,Self employed,11,2,0,114790,0,1,695,62,46,4,41.5,Not sustainable,medium,0
+T0414,99086,Full time,5,7,0,34273,0,1,597,33,31,3,34.59,Manageable with caution,medium,0
+T0415,305466,Full time,12,0,0,102340,1,0,611,36,32,0,33.5,Sustainable,low,1
+T0416,239549,Full time,7,3,0,179176,1,1,828,27,49,2,74.8,Not sustainable,low,0
+T0417,211055,Self employed,1,0,24898,108746,0,1,528,58,25,3,51.52,Not sustainable,high,0
+T0418,261122,Full time,14,0,103084,32997,1,1,773,24,38,1,12.64,Sustainable,low,1
+T0419,103243,Full time,11,3,147276,132991,1,0,478,23,26,0,128.81,Not sustainable,medium,0
+T0420,57926,Part time,4,1,0,134645,1,1,699,22,48,1,232.44,Not sustainable,low,0
+T0421,96406,Part time,4,0,0,167428,1,1,666,57,45,0,173.67,Not sustainable,low,0
+T0422,180315,Full time,10,0,120883,36345,0,1,611,61,57,0,20.16,Not sustainable,low,0
+T0423,304478,Full time,4,0,109831,82346,1,0,625,23,36,0,27.04,Sustainable,low,1
+T0424,89170,Self employed,4,1,0,147980,1,0,559,74,51,2,165.95,Not sustainable,high,0
+T0425,82053,Part time,5,1,0,34820,0,0,605,64,59,4,42.44,Not sustainable,high,0
+T0426,263112,Full time,5,0,0,124429,1,1,558,34,42,1,47.29,Manageable with caution,low,0
+T0427,296944,Self employed,5,1,0,157051,1,1,647,36,51,0,52.89,Not sustainable,low,0
+T0428,86157,Part time,0,1,109694,120906,0,1,621,69,35,2,140.33,Not sustainable,medium,0
+T0429,146494,Part time,6,1,143749,37724,0,1,730,71,61,1,25.75,Not sustainable,low,0
+T0430,104618,Part time,3,2,0,93009,0,1,746,62,52,0,88.9,Not sustainable,medium,0
+T0431,212313,Self employed,8,1,0,83034,1,1,836,23,59,4,39.11,Manageable with caution,low,0
+T0432,56614,Student,0,1,0,47777,1,0,850,8,38,3,84.39,Not sustainable,medium,0
+T0433,197807,Full time,5,0,117728,146130,0,0,850,39,56,1,73.88,Not sustainable,medium,0
+T0434,150865,Full time,4,3,0,36837,1,1,675,65,63,1,24.42,Not sustainable,low,0
+T0435,191570,Full time,8,1,0,154216,0,1,705,57,32,2,80.5,Not sustainable,medium,0
+T0436,41812,Student,0,4,43209,47337,1,1,637,63,33,0,113.21,Not sustainable,medium,0
+T0437,219365,Self employed,11,1,114398,129712,1,1,497,9,51,0,59.13,Not sustainable,medium,0
+T0438,56119,Part time,1,7,90499,165974,0,1,599,11,30,0,295.75,Not sustainable,medium,0
+T0439,169837,Full time,13,2,0,104950,1,0,577,62,23,2,61.79,Not sustainable,high,0
+T0440,294139,Full time,10,1,37734,173237,1,0,624,30,47,0,58.9,Not sustainable,low,0
+T0441,260020,Full time,15,0,0,72990,1,1,758,70,57,4,28.07,Not sustainable,low,0
+T0442,189773,Full time,1,2,139570,74796,1,0,706,23,29,2,39.41,Manageable with caution,low,0
+T0443,170756,Full time,5,0,0,146983,0,0,577,63,49,3,86.08,Not sustainable,high,0
+T0444,46507,Part time,4,2,0,159359,1,1,579,15,56,1,342.66,Not sustainable,medium,0
+T0445,233482,Full time,5,0,0,176158,0,1,811,43,39,4,75.45,Not sustainable,medium,0
+T0446,199302,Full time,3,2,108092,72293,1,1,672,27,47,2,36.27,Manageable with caution,low,0
+T0447,99395,Full time,2,4,62312,108458,1,1,649,65,26,0,109.12,Not sustainable,medium,0
+T0448,21575,Unemployed,0,3,0,168163,1,0,601,72,23,1,779.43,Not sustainable,high,0
+T0449,266617,Self employed,11,1,75974,105284,1,1,747,68,51,2,39.49,Not sustainable,low,0
+T0450,92161,Part time,4,6,112875,91006,0,0,572,20,65,3,98.75,Not sustainable,high,0
+T0451,168693,Self employed,6,2,63750,41925,1,0,653,13,37,0,24.85,Sustainable,low,1
+T0452,46607,Part time,0,3,64742,117368,1,0,703,27,30,0,251.82,Not sustainable,low,0
+T0453,266284,Full time,8,3,0,154387,1,1,721,47,47,2,57.98,Not sustainable,medium,0
+T0454,284664,Full time,1,2,59235,166596,0,1,556,47,40,0,58.52,Not sustainable,medium,0
+T0455,310394,Full time,1,2,148924,118906,1,1,531,44,63,3,38.31,Manageable with caution,medium,0
+T0456,131171,Self employed,6,1,0,52753,1,1,711,72,37,0,40.22,Not sustainable,low,0
+T0457,99802,Full time,13,2,0,82978,0,1,568,66,64,3,83.14,Not sustainable,high,0
+T0458,175809,Full time,3,1,0,55756,0,1,629,71,25,0,31.71,Not sustainable,low,0
+T0459,26413,Student,0,0,0,117369,1,1,788,31,38,0,444.36,Not sustainable,low,0
+T0460,229532,Full time,6,1,0,145635,0,0,652,70,24,0,63.45,Not sustainable,medium,0
+T0461,173488,Full time,5,2,143637,67108,0,1,722,11,26,0,38.68,Manageable with caution,low,0
+T0462,21613,Student,0,0,0,57768,1,1,555,62,57,0,267.28,Not sustainable,medium,0
+T0463,141943,Full time,12,2,30295,169849,0,1,616,44,61,1,119.66,Not sustainable,medium,0
+T0464,183350,Self employed,3,5,38837,88666,1,1,589,47,38,1,48.36,Manageable with caution,medium,0
+T0465,214606,Full time,2,4,82737,122128,0,1,529,56,63,2,56.91,Not sustainable,high,0
+T0466,260249,Full time,2,1,89828,109198,1,1,578,75,28,5,41.96,Not sustainable,medium,0
+T0467,179316,Full time,4,2,122801,143022,0,1,695,67,25,1,79.76,Not sustainable,medium,0
+T0468,70599,Part time,6,6,43091,146710,0,0,755,53,38,1,207.81,Not sustainable,high,0
+T0469,83732,Self employed,3,3,0,66416,1,1,596,62,30,0,79.32,Not sustainable,medium,0
+T0470,19643,Unemployed,0,5,124116,179494,1,1,756,49,23,1,913.78,Not sustainable,medium,0
+T0471,178804,Part time,3,0,131739,63437,1,1,751,50,25,3,35.48,Manageable with caution,low,0
+T0472,15416,Unemployed,0,2,112041,143171,1,1,630,60,52,0,928.72,Not sustainable,medium,0
+T0473,126456,Full time,4,4,70409,175600,0,1,605,14,59,0,138.86,Not sustainable,medium,0
+T0474,187585,Self employed,10,0,0,144487,1,1,585,63,62,1,77.02,Not sustainable,medium,0
+T0475,137132,Full time,8,1,75590,163540,0,1,741,35,63,1,119.26,Not sustainable,medium,0
+T0476,233174,Full time,10,2,0,126198,1,0,635,66,62,0,54.12,Not sustainable,medium,0
+T0477,197994,Self employed,12,2,0,103248,1,0,534,14,61,1,52.15,Not sustainable,medium,0
+T0478,141919,Self employed,9,2,138434,43834,0,1,527,65,54,2,30.89,Not sustainable,medium,0
+T0479,341810,Full time,13,0,0,107232,1,1,612,12,58,1,31.37,Sustainable,low,1
+T0480,103531,Full time,11,1,0,106481,0,1,508,40,34,0,102.85,Not sustainable,medium,0
+T0481,314882,Full time,5,2,0,33723,1,1,580,27,34,2,10.71,Sustainable,low,1
+T0482,137398,Full time,13,1,0,168251,0,0,553,24,49,2,122.46,Not sustainable,medium,0
+T0483,190444,Full time,4,1,0,145391,1,1,530,19,21,0,76.34,Not sustainable,medium,0
+T0484,169001,Full time,8,3,50626,169597,1,1,505,72,45,0,100.35,Not sustainable,medium,0
+T0485,73827,Student,0,6,108931,130140,1,0,747,60,57,4,176.28,Not sustainable,high,0
+T0486,21952,Unemployed,0,1,0,100864,1,1,563,35,64,1,459.48,Not sustainable,medium,0
+T0487,196302,Self employed,5,3,0,77164,1,0,666,62,40,0,39.31,Not sustainable,low,0
+T0488,140614,Full time,1,0,0,36212,1,1,655,32,56,1,25.75,Sustainable,low,1
+T0489,91451,Self employed,1,4,0,64054,1,1,411,63,35,2,70.04,Not sustainable,high,0
+T0490,235001,Self employed,12,3,0,114778,0,0,675,54,39,6,48.84,Manageable with caution,medium,0
+T0491,303070,Full time,5,2,0,76643,1,1,678,23,52,2,25.29,Sustainable,low,1
+T0492,258647,Full time,2,0,113768,145757,0,1,729,37,46,0,56.35,Not sustainable,low,0
+T0493,45227,Part time,0,3,0,132362,1,1,405,67,48,0,292.66,Not sustainable,medium,0
+T0494,4594,Unemployed,0,1,0,171591,1,1,608,20,54,1,3735.11,Not sustainable,medium,0
+T0495,58704,Student,0,2,0,109384,1,0,393,15,47,2,186.33,Not sustainable,high,0
+T0496,143246,Full time,3,3,25155,175352,0,1,577,18,58,1,122.41,Not sustainable,medium,0
+T0497,159814,Part time,5,1,0,79666,1,1,595,74,59,0,49.85,Not sustainable,medium,0
+T0498,162783,Part time,0,1,0,39710,1,1,632,32,59,1,24.39,Sustainable,low,1
+T0499,84047,Part time,5,0,0,91075,0,1,420,10,33,2,108.36,Not sustainable,medium,0
+T0500,135154,Full time,11,4,138575,43096,0,1,668,13,24,0,31.89,Sustainable,low,1
